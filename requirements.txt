@@ -58,7 +58,7 @@ poetry-core==1.9.0
 poetry-plugin-export==1.8.0
 preshed==3.0.9
 protobuf==5.27.2
-psycopg2==2.9.9
+psycopg2-binary
 ptyprocess==0.7.0
 pyarrow==17.0.0
 pydantic==2.8.2
